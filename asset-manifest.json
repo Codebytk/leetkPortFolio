@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/leetkPortFolio/static/css/main.586fdbc6.css",
+    "main.js": "/leetkPortFolio/static/js/main.1beb45a0.js",
+    "static/js/87.dc376832.chunk.js": "/leetkPortFolio/static/js/87.dc376832.chunk.js",
+    "static/media/proj4.png": "/leetkPortFolio/static/media/proj4.bf77769fbad8fdbe9f9d.png",
+    "static/media/proj3.png": "/leetkPortFolio/static/media/proj3.09fb695a766eaa9e1fe3.png",
+    "static/media/proj5.png": "/leetkPortFolio/static/media/proj5.9c7c801d811894371fbe.png",
+    "static/media/proj2.png": "/leetkPortFolio/static/media/proj2.f796b1ab3c7f0b96dc4e.png",
+    "static/media/proj1.png": "/leetkPortFolio/static/media/proj1.828d9b40bb95df22d5a9.png",
+    "static/media/leeImg.jpg": "/leetkPortFolio/static/media/leeImg.91b7679aa2374e1820cc.jpg",
+    "static/media/slick.svg": "/leetkPortFolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/leetkPortFolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/leetkPortFolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/leetkPortFolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/leetkPortFolio/index.html",
+    "main.586fdbc6.css.map": "/leetkPortFolio/static/css/main.586fdbc6.css.map",
+    "main.1beb45a0.js.map": "/leetkPortFolio/static/js/main.1beb45a0.js.map",
+    "87.dc376832.chunk.js.map": "/leetkPortFolio/static/js/87.dc376832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586fdbc6.css",
+    "static/js/main.1beb45a0.js"
+  ]
+}
